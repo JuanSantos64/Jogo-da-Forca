@@ -1,2 +1,2 @@
-# Jogo-da-Forca
-Um simples jogo da forca feito em .Net Maui
+# Jogo da Forca
+A simple app to pratice my skills with .NetMaui, C# and XAML!
